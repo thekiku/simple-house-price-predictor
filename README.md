@@ -7,7 +7,7 @@ A clean, minimalist implementation of a regression pipeline using TensorFlow 2.x
 * **Model Architecture:** Fully connected neural network built using the Keras Sequential API.
 * **Regularization:** Layer stabilization using Batch Normalization, Dropout, and L2 regularization to manage model variance.
 * **Training Dynamics:** Regulated training flow via `EarlyStopping` and dynamic learning rate adjustments (`ReduceLROnPlateau`).
- <img width="678" height="470" alt="image" src="https://github.com/user-attachments/assets/80937765-5452-4e7e-8418-7d22e2db70e9" />
+<img width="678" height="470" alt="image" src="https://github.com/user-attachments/assets/80937765-5452-4e7e-8418-7d22e2db70e9" />
 
 
 ## Quick Start
