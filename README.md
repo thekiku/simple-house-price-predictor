@@ -1,6 +1,6 @@
 # California Housing Prediction (TensorFlow/Keras)
 
-A clean, minimalist implementation of a regression pipeline using TensorFlow 2.x and Keras to predict house prices using the classic California Housing dataset.
+A basic implementation of a regression pipeline using TensorFlow and Keras to predict house prices using the classic California Housing dataset.
 
 ## Core Setup
 * **Data Processing:** Scaled features via `StandardScaler` and split into clean Train/Validation/Test partitions.
